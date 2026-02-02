@@ -1,1 +1,47 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<title>Georgiana & Erkan</title>
+<style>
+body {
+  margin: 0;
+  padding: 0;
+  background: #0b0b0b;
+  color: #e6e6e6;
+  font-family: 'Georgia', serif;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 60px 20px;
+}
+h1 {
+  text-align: center;
+  font-size: 48px;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+h2 {
+  text-align: center;
+  font-weight: normal;
+  color: #b3003b;
+  margin-bottom: 60px;
+}
+p {
+  font-size: 20px;
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+.quote {
+  font-style: italic;
+  color: #999;
+  text-align: center;
+  margin: 50px 0;
+}
+.footer {
+  text-align: center;
+  margin-top: 80px;
+  font-size: 14px;
+  color: #666;
 
