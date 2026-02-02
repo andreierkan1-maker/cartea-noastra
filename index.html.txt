@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang=“ro”>
+<head>
+    <meta charset=“UTF-8”>
+    <title>Pentru tine ❤️</title>
+    <link rel=“stylesheet” href=“style.css”>
+</head>
+<body>
+    <div class=“book”>
+        <h1>Pentru iubirea mea</h1>
+        <p>
+            Ca într-o carte veche, povestea noastră e scrisă
+            cu emoții, nopți târzii și zâmbete sincere.
+        </p>
+        <p class=“signature”>— Cu drag, de la mine</p>
+    </div>
+</body>
+</html>
